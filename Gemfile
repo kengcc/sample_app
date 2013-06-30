@@ -45,6 +45,8 @@ group :production do
   gem 'pg', '0.15.1'
 end
 
+gem 'newrelic_rpm'
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
