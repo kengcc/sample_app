@@ -1,0 +1,352 @@
+# Logfile created on 2013-06-30 19:59:47 +0800 by logger.rb/36483
+[06/30/13 19:59:47 +0800 T61 (11173)] INFO : Starting the New Relic agent in "development" environment.
+[06/30/13 19:59:47 +0800 T61 (11173)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[06/30/13 19:59:47 +0800 T61 (11173)] INFO : Reading configuration from config/newrelic.yml
+[06/30/13 19:59:47 +0800 T61 (11173)] INFO : Enabling the Request Sampler.
+[06/30/13 19:59:47 +0800 T61 (11173)] INFO : Environment: development
+[06/30/13 19:59:47 +0800 T61 (11173)] INFO : Dispatcher: webrick
+[06/30/13 19:59:47 +0800 T61 (11173)] INFO : Application: My Application
+[06/30/13 19:59:47 +0800 T61 (11173)] WARN : Agent configured not to send data in this environment.
+[06/30/13 19:59:47 +0800 T61 (11173)] INFO : Installing Net instrumentation
+[06/30/13 19:59:47 +0800 T61 (11173)] INFO : Installing Rails 4 Controller instrumentation
+[06/30/13 19:59:48 +0800 T61 (11173)] INFO : Installing Rails4 Error instrumentation
+[06/30/13 19:59:48 +0800 T61 (11173)] INFO : Installing Rails 4 view instrumentation
+[06/30/13 19:59:48 +0800 T61 (11173)] INFO : Installing ActiveRecord 4 instrumentation
+[06/30/13 19:59:48 +0800 T61 (11173)] INFO : Finished instrumentation
+[06/30/13 20:44:37 +0800 T61 (12409)] INFO : Starting the New Relic agent in "development" environment.
+[06/30/13 20:44:37 +0800 T61 (12409)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[06/30/13 20:44:37 +0800 T61 (12409)] INFO : Reading configuration from config/newrelic.yml
+[06/30/13 20:44:37 +0800 T61 (12409)] INFO : Enabling the Request Sampler.
+[06/30/13 20:44:37 +0800 T61 (12409)] INFO : Environment: development
+[06/30/13 20:44:37 +0800 T61 (12409)] INFO : Dispatcher: webrick
+[06/30/13 20:44:37 +0800 T61 (12409)] INFO : Application: My Application
+[06/30/13 20:44:37 +0800 T61 (12409)] WARN : Agent configured not to send data in this environment.
+[06/30/13 20:44:37 +0800 T61 (12409)] INFO : Installing Net instrumentation
+[06/30/13 20:44:37 +0800 T61 (12409)] INFO : Installing Rails 4 Controller instrumentation
+[06/30/13 20:44:37 +0800 T61 (12409)] INFO : Installing Rails4 Error instrumentation
+[06/30/13 20:44:37 +0800 T61 (12409)] INFO : Installing Rails 4 view instrumentation
+[06/30/13 20:44:37 +0800 T61 (12409)] INFO : Installing ActiveRecord 4 instrumentation
+[06/30/13 20:44:37 +0800 T61 (12409)] INFO : Finished instrumentation
+[06/30/13 20:46:28 +0800 T61 (12424)] INFO : Starting the New Relic agent in "development" environment.
+[06/30/13 20:46:28 +0800 T61 (12424)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[06/30/13 20:46:28 +0800 T61 (12424)] INFO : Reading configuration from config/newrelic.yml
+[06/30/13 20:46:28 +0800 T61 (12424)] INFO : Enabling the Request Sampler.
+[06/30/13 20:46:28 +0800 T61 (12424)] INFO : Environment: development
+[06/30/13 20:46:28 +0800 T61 (12424)] INFO : Dispatcher: webrick
+[06/30/13 20:46:28 +0800 T61 (12424)] INFO : Application: My Application
+[06/30/13 20:46:28 +0800 T61 (12424)] WARN : Agent configured not to send data in this environment.
+[06/30/13 20:46:28 +0800 T61 (12424)] INFO : Installing Net instrumentation
+[06/30/13 20:46:28 +0800 T61 (12424)] INFO : Installing Rails 4 Controller instrumentation
+[06/30/13 20:46:28 +0800 T61 (12424)] INFO : Installing Rails4 Error instrumentation
+[06/30/13 20:46:28 +0800 T61 (12424)] INFO : Installing Rails 4 view instrumentation
+[06/30/13 20:46:28 +0800 T61 (12424)] INFO : Installing ActiveRecord 4 instrumentation
+[06/30/13 20:46:28 +0800 T61 (12424)] INFO : Finished instrumentation
+[06/30/13 20:50:40 +0800 T61 (12500)] INFO : Starting the New Relic agent in "development" environment.
+[06/30/13 20:50:40 +0800 T61 (12500)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[06/30/13 20:50:40 +0800 T61 (12500)] INFO : Reading configuration from config/newrelic.yml
+[06/30/13 20:50:40 +0800 T61 (12500)] INFO : Enabling the Request Sampler.
+[06/30/13 20:50:40 +0800 T61 (12500)] INFO : Environment: development
+[06/30/13 20:50:40 +0800 T61 (12500)] INFO : Dispatcher: webrick
+[06/30/13 20:50:40 +0800 T61 (12500)] INFO : Application: My Application
+[06/30/13 20:50:40 +0800 T61 (12500)] WARN : Agent configured not to send data in this environment.
+[06/30/13 20:50:40 +0800 T61 (12500)] INFO : Installing Net instrumentation
+[06/30/13 20:50:40 +0800 T61 (12500)] INFO : Installing Rails 4 Controller instrumentation
+[06/30/13 20:50:40 +0800 T61 (12500)] INFO : Installing Rails4 Error instrumentation
+[06/30/13 20:50:40 +0800 T61 (12500)] INFO : Installing Rails 4 view instrumentation
+[06/30/13 20:50:40 +0800 T61 (12500)] INFO : Installing ActiveRecord 4 instrumentation
+[06/30/13 20:50:40 +0800 T61 (12500)] INFO : Finished instrumentation
+[06/30/13 21:04:59 +0800 T61 (12621)] INFO : Starting the New Relic agent in "development" environment.
+[06/30/13 21:04:59 +0800 T61 (12621)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[06/30/13 21:04:59 +0800 T61 (12621)] INFO : Reading configuration from config/newrelic.yml
+[06/30/13 21:04:59 +0800 T61 (12621)] INFO : Enabling the Request Sampler.
+[06/30/13 21:04:59 +0800 T61 (12621)] INFO : Environment: development
+[06/30/13 21:04:59 +0800 T61 (12621)] INFO : Dispatcher: webrick
+[06/30/13 21:04:59 +0800 T61 (12621)] INFO : Application: My Application
+[06/30/13 21:04:59 +0800 T61 (12621)] WARN : Agent configured not to send data in this environment.
+[06/30/13 21:04:59 +0800 T61 (12621)] INFO : Installing Net instrumentation
+[06/30/13 21:04:59 +0800 T61 (12621)] INFO : Installing Rails 4 Controller instrumentation
+[06/30/13 21:04:59 +0800 T61 (12621)] INFO : Installing Rails4 Error instrumentation
+[06/30/13 21:04:59 +0800 T61 (12621)] INFO : Installing Rails 4 view instrumentation
+[06/30/13 21:04:59 +0800 T61 (12621)] INFO : Installing ActiveRecord 4 instrumentation
+[06/30/13 21:04:59 +0800 T61 (12621)] INFO : Finished instrumentation
+[06/30/13 21:58:43 +0800 T61 (14477)] INFO : Starting the New Relic agent in "development" environment.
+[06/30/13 21:58:43 +0800 T61 (14477)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[06/30/13 21:58:43 +0800 T61 (14477)] INFO : Reading configuration from config/newrelic.yml
+[06/30/13 21:58:43 +0800 T61 (14477)] INFO : Enabling the Request Sampler.
+[06/30/13 21:58:43 +0800 T61 (14477)] INFO : Environment: development
+[06/30/13 21:58:43 +0800 T61 (14477)] INFO : Dispatcher: webrick
+[06/30/13 21:58:43 +0800 T61 (14477)] INFO : Application: My Application
+[06/30/13 21:58:43 +0800 T61 (14477)] WARN : Agent configured not to send data in this environment.
+[06/30/13 21:58:43 +0800 T61 (14477)] INFO : Installing Net instrumentation
+[06/30/13 21:58:43 +0800 T61 (14477)] INFO : Installing Rails 4 Controller instrumentation
+[06/30/13 21:58:43 +0800 T61 (14477)] INFO : Installing Rails4 Error instrumentation
+[06/30/13 21:58:43 +0800 T61 (14477)] INFO : Installing Rails 4 view instrumentation
+[06/30/13 21:58:43 +0800 T61 (14477)] INFO : Installing ActiveRecord 4 instrumentation
+[06/30/13 21:58:43 +0800 T61 (14477)] INFO : Finished instrumentation
+[06/30/13 22:04:29 +0800 T61 (14531)] INFO : Starting the New Relic agent in "development" environment.
+[06/30/13 22:04:29 +0800 T61 (14531)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[06/30/13 22:04:29 +0800 T61 (14531)] INFO : Reading configuration from config/newrelic.yml
+[06/30/13 22:04:29 +0800 T61 (14531)] INFO : Enabling the Request Sampler.
+[06/30/13 22:04:29 +0800 T61 (14531)] INFO : Environment: development
+[06/30/13 22:04:29 +0800 T61 (14531)] INFO : Dispatcher: webrick
+[06/30/13 22:04:29 +0800 T61 (14531)] INFO : Application: My Application
+[06/30/13 22:04:29 +0800 T61 (14531)] WARN : Agent configured not to send data in this environment.
+[06/30/13 22:04:29 +0800 T61 (14531)] INFO : Installing Net instrumentation
+[06/30/13 22:04:29 +0800 T61 (14531)] INFO : Installing Rails 4 Controller instrumentation
+[06/30/13 22:04:29 +0800 T61 (14531)] INFO : Installing Rails4 Error instrumentation
+[06/30/13 22:04:29 +0800 T61 (14531)] INFO : Installing Rails 4 view instrumentation
+[06/30/13 22:04:29 +0800 T61 (14531)] INFO : Installing ActiveRecord 4 instrumentation
+[06/30/13 22:04:29 +0800 T61 (14531)] INFO : Finished instrumentation
+[07/05/13 11:28:40 +0800 ubuntu (16737)] INFO : Starting the New Relic agent in "development" environment.
+[07/05/13 11:28:40 +0800 ubuntu (16737)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/05/13 11:28:40 +0800 ubuntu (16737)] INFO : Reading configuration from config/newrelic.yml
+[07/05/13 11:28:40 +0800 ubuntu (16737)] INFO : Enabling the Request Sampler.
+[07/05/13 11:28:40 +0800 ubuntu (16737)] INFO : Environment: development
+[07/05/13 11:28:40 +0800 ubuntu (16737)] INFO : Dispatcher: webrick
+[07/05/13 11:28:40 +0800 ubuntu (16737)] INFO : Application: My Application
+[07/05/13 11:28:40 +0800 ubuntu (16737)] INFO : Installing Net instrumentation
+[07/05/13 11:28:40 +0800 ubuntu (16737)] INFO : Installing Rails4 Error instrumentation
+[07/05/13 11:28:40 +0800 ubuntu (16737)] INFO : Installing Rails 4 view instrumentation
+[07/05/13 11:28:40 +0800 ubuntu (16737)] INFO : Installing Rails 4 Controller instrumentation
+[07/05/13 11:28:40 +0800 ubuntu (16737)] INFO : Installing ActiveRecord 4 instrumentation
+[07/05/13 11:28:40 +0800 ubuntu (16737)] INFO : Finished instrumentation
+[07/05/13 11:28:47 +0800 ubuntu (16737)] INFO : Reporting to: https://rpm.newrelic.com/accounts/362763/applications/2373430
+[07/05/13 11:29:33 +0800 ubuntu (16737)] INFO : Starting Agent shutdown
+[07/05/13 11:34:11 +0800 ubuntu (17307)] INFO : Starting the New Relic agent in "development" environment.
+[07/05/13 11:34:11 +0800 ubuntu (17307)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/05/13 11:34:11 +0800 ubuntu (17307)] INFO : Reading configuration from config/newrelic.yml
+[07/05/13 11:34:11 +0800 ubuntu (17307)] INFO : Enabling the Request Sampler.
+[07/05/13 11:34:11 +0800 ubuntu (17307)] INFO : Environment: development
+[07/05/13 11:34:11 +0800 ubuntu (17307)] INFO : Dispatcher: webrick
+[07/05/13 11:34:11 +0800 ubuntu (17307)] INFO : Application: My Application
+[07/05/13 11:34:11 +0800 ubuntu (17307)] INFO : Installing Net instrumentation
+[07/05/13 11:34:11 +0800 ubuntu (17307)] INFO : Installing Rails4 Error instrumentation
+[07/05/13 11:34:11 +0800 ubuntu (17307)] INFO : Installing Rails 4 view instrumentation
+[07/05/13 11:34:11 +0800 ubuntu (17307)] INFO : Installing Rails 4 Controller instrumentation
+[07/05/13 11:34:11 +0800 ubuntu (17307)] INFO : Installing ActiveRecord 4 instrumentation
+[07/05/13 11:34:11 +0800 ubuntu (17307)] INFO : Finished instrumentation
+[07/05/13 11:34:18 +0800 ubuntu (17307)] INFO : Reporting to: https://rpm.newrelic.com/accounts/362763/applications/2373430
+[07/05/13 11:35:16 +0800 ubuntu (17307)] INFO : Starting Agent shutdown
+[07/05/13 11:35:38 +0800 ubuntu (17317)] INFO : Starting the New Relic agent in "development" environment.
+[07/05/13 11:35:38 +0800 ubuntu (17317)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/05/13 11:35:38 +0800 ubuntu (17317)] INFO : Reading configuration from config/newrelic.yml
+[07/05/13 11:35:38 +0800 ubuntu (17317)] INFO : Enabling the Request Sampler.
+[07/05/13 11:35:38 +0800 ubuntu (17317)] INFO : Environment: development
+[07/05/13 11:35:38 +0800 ubuntu (17317)] INFO : Dispatcher: webrick
+[07/05/13 11:35:38 +0800 ubuntu (17317)] INFO : Application: My Application
+[07/05/13 11:35:38 +0800 ubuntu (17317)] INFO : Installing Net instrumentation
+[07/05/13 11:35:38 +0800 ubuntu (17317)] INFO : Installing Rails4 Error instrumentation
+[07/05/13 11:35:38 +0800 ubuntu (17317)] INFO : Installing Rails 4 view instrumentation
+[07/05/13 11:35:38 +0800 ubuntu (17317)] INFO : Installing Rails 4 Controller instrumentation
+[07/05/13 11:35:38 +0800 ubuntu (17317)] INFO : Installing ActiveRecord 4 instrumentation
+[07/05/13 11:35:38 +0800 ubuntu (17317)] INFO : Finished instrumentation
+[07/05/13 11:35:44 +0800 ubuntu (17317)] INFO : Reporting to: https://rpm.newrelic.com/accounts/362763/applications/2373430
+[07/05/13 11:49:00 +0800 ubuntu (17317)] INFO : Starting Agent shutdown
+[07/05/13 22:57:20 +0800 T61 (27296)] INFO : Starting the New Relic agent in "development" environment.
+[07/05/13 22:57:20 +0800 T61 (27296)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/05/13 22:57:20 +0800 T61 (27296)] INFO : Reading configuration from config/newrelic.yml
+[07/05/13 22:57:20 +0800 T61 (27296)] INFO : Enabling the Request Sampler.
+[07/05/13 22:57:20 +0800 T61 (27296)] INFO : Environment: development
+[07/05/13 22:57:20 +0800 T61 (27296)] INFO : Dispatcher: webrick
+[07/05/13 22:57:20 +0800 T61 (27296)] INFO : Application: My Application
+[07/05/13 22:57:20 +0800 T61 (27296)] INFO : Installing Net instrumentation
+[07/05/13 22:57:20 +0800 T61 (27296)] INFO : Installing Rails 4 Controller instrumentation
+[07/05/13 22:57:20 +0800 T61 (27296)] INFO : Installing Rails4 Error instrumentation
+[07/05/13 22:57:20 +0800 T61 (27296)] INFO : Installing Rails 4 view instrumentation
+[07/05/13 22:57:20 +0800 T61 (27296)] INFO : Installing ActiveRecord 4 instrumentation
+[07/05/13 22:57:20 +0800 T61 (27296)] INFO : Finished instrumentation
+[07/05/13 22:57:23 +0800 T61 (27296)] INFO : Starting Agent shutdown
+[07/06/13 22:32:15 +0800 T61 (1613)] INFO : Starting the New Relic agent in "development" environment.
+[07/06/13 22:32:15 +0800 T61 (1613)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/06/13 22:32:15 +0800 T61 (1613)] INFO : Reading configuration from config/newrelic.yml
+[07/06/13 22:32:15 +0800 T61 (1613)] INFO : Enabling the Request Sampler.
+[07/06/13 22:32:15 +0800 T61 (1613)] INFO : Environment: development
+[07/06/13 22:32:15 +0800 T61 (1613)] INFO : Dispatcher: webrick
+[07/06/13 22:32:15 +0800 T61 (1613)] INFO : Application: My Application
+[07/06/13 22:32:15 +0800 T61 (1613)] INFO : Installing Net instrumentation
+[07/06/13 22:32:15 +0800 T61 (1613)] INFO : Installing Rails 4 Controller instrumentation
+[07/06/13 22:32:15 +0800 T61 (1613)] INFO : Installing Rails4 Error instrumentation
+[07/06/13 22:32:15 +0800 T61 (1613)] INFO : Installing Rails 4 view instrumentation
+[07/06/13 22:32:15 +0800 T61 (1613)] INFO : Installing ActiveRecord 4 instrumentation
+[07/06/13 22:32:15 +0800 T61 (1613)] INFO : Finished instrumentation
+[07/06/13 22:32:18 +0800 T61 (1613)] INFO : Reporting to: https://rpm.newrelic.com/accounts/362763/applications/2373430
+[07/06/13 22:52:50 +0800 T61 (1613)] INFO : Starting Agent shutdown
+[07/06/13 22:57:27 +0800 T61 (1983)] INFO : Starting the New Relic agent in "development" environment.
+[07/06/13 22:57:27 +0800 T61 (1983)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/06/13 22:57:27 +0800 T61 (1983)] INFO : Reading configuration from config/newrelic.yml
+[07/06/13 22:57:27 +0800 T61 (1983)] INFO : Enabling the Request Sampler.
+[07/06/13 22:57:27 +0800 T61 (1983)] INFO : Environment: development
+[07/06/13 22:57:27 +0800 T61 (1983)] INFO : Dispatcher: webrick
+[07/06/13 22:57:27 +0800 T61 (1983)] INFO : Application: My Application
+[07/06/13 22:57:27 +0800 T61 (1983)] INFO : Installing Net instrumentation
+[07/06/13 22:57:27 +0800 T61 (1983)] INFO : Installing Rails 4 Controller instrumentation
+[07/06/13 22:57:27 +0800 T61 (1983)] INFO : Installing Rails4 Error instrumentation
+[07/06/13 22:57:27 +0800 T61 (1983)] INFO : Installing Rails 4 view instrumentation
+[07/06/13 22:57:27 +0800 T61 (1983)] INFO : Installing ActiveRecord 4 instrumentation
+[07/06/13 22:57:27 +0800 T61 (1983)] INFO : Finished instrumentation
+[07/06/13 22:57:30 +0800 T61 (1983)] INFO : Reporting to: https://rpm.newrelic.com/accounts/362763/applications/2373430
+[07/07/13 11:06:57 +0800 T61 (1983)] INFO : Starting Agent shutdown
+[07/07/13 11:07:09 +0800 T61 (4044)] INFO : Starting the New Relic agent in "development" environment.
+[07/07/13 11:07:09 +0800 T61 (4044)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/07/13 11:07:09 +0800 T61 (4044)] INFO : Reading configuration from config/newrelic.yml
+[07/07/13 11:07:09 +0800 T61 (4044)] INFO : Enabling the Request Sampler.
+[07/07/13 11:07:09 +0800 T61 (4044)] INFO : Environment: development
+[07/07/13 11:07:09 +0800 T61 (4044)] INFO : Dispatcher: webrick
+[07/07/13 11:07:09 +0800 T61 (4044)] INFO : Application: My Application
+[07/07/13 11:07:09 +0800 T61 (4044)] INFO : Installing Net instrumentation
+[07/07/13 11:07:09 +0800 T61 (4044)] INFO : Installing Rails 4 Controller instrumentation
+[07/07/13 11:07:09 +0800 T61 (4044)] INFO : Installing Rails4 Error instrumentation
+[07/07/13 11:07:09 +0800 T61 (4044)] INFO : Installing Rails 4 view instrumentation
+[07/07/13 11:07:09 +0800 T61 (4044)] INFO : Installing ActiveRecord 4 instrumentation
+[07/07/13 11:07:09 +0800 T61 (4044)] INFO : Finished instrumentation
+[07/07/13 11:07:10 +0800 T61 (4044)] INFO : Starting Agent shutdown
+[07/07/13 11:39:42 +0800 T61 (3825)] INFO : Starting the New Relic agent in "development" environment.
+[07/07/13 11:39:42 +0800 T61 (3825)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/07/13 11:39:42 +0800 T61 (3825)] INFO : Reading configuration from config/newrelic.yml
+[07/07/13 11:39:42 +0800 T61 (3825)] INFO : Enabling the Request Sampler.
+[07/07/13 11:39:42 +0800 T61 (3825)] INFO : Environment: development
+[07/07/13 11:39:42 +0800 T61 (3825)] INFO : Dispatcher: webrick
+[07/07/13 11:39:42 +0800 T61 (3825)] INFO : Application: My Application
+[07/07/13 11:39:43 +0800 T61 (3825)] INFO : Installing Net instrumentation
+[07/07/13 11:39:43 +0800 T61 (3825)] INFO : Installing Rails 4 Controller instrumentation
+[07/07/13 11:39:43 +0800 T61 (3825)] INFO : Installing Rails4 Error instrumentation
+[07/07/13 11:39:43 +0800 T61 (3825)] INFO : Installing Rails 4 view instrumentation
+[07/07/13 11:39:43 +0800 T61 (3825)] INFO : Installing ActiveRecord 4 instrumentation
+[07/07/13 11:39:43 +0800 T61 (3825)] INFO : Finished instrumentation
+[07/07/13 11:39:45 +0800 T61 (3825)] INFO : Reporting to: https://rpm.newrelic.com/accounts/362763/applications/2373430
+[07/07/13 11:56:01 +0800 T61 (3825)] INFO : Starting Agent shutdown
+[07/07/13 12:07:13 +0800 T61 (4254)] INFO : Starting the New Relic agent in "development" environment.
+[07/07/13 12:07:13 +0800 T61 (4254)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/07/13 12:07:13 +0800 T61 (4254)] INFO : Reading configuration from config/newrelic.yml
+[07/07/13 12:07:13 +0800 T61 (4254)] INFO : Enabling the Request Sampler.
+[07/07/13 12:07:13 +0800 T61 (4254)] INFO : Environment: development
+[07/07/13 12:07:13 +0800 T61 (4254)] INFO : Dispatcher: webrick
+[07/07/13 12:07:13 +0800 T61 (4254)] INFO : Application: My Application
+[07/07/13 12:07:13 +0800 T61 (4254)] INFO : Installing Net instrumentation
+[07/07/13 12:07:13 +0800 T61 (4254)] INFO : Installing Rails 4 Controller instrumentation
+[07/07/13 12:07:13 +0800 T61 (4254)] INFO : Installing Rails4 Error instrumentation
+[07/07/13 12:07:13 +0800 T61 (4254)] INFO : Installing Rails 4 view instrumentation
+[07/07/13 12:07:13 +0800 T61 (4254)] INFO : Installing ActiveRecord 4 instrumentation
+[07/07/13 12:07:13 +0800 T61 (4254)] INFO : Finished instrumentation
+[07/07/13 12:07:16 +0800 T61 (4254)] INFO : Reporting to: https://rpm.newrelic.com/accounts/362763/applications/2373430
+[07/07/13 12:09:16 +0800 T61 (4254)] ERROR : Error running task in Agent Worker Loop:
+[07/07/13 12:09:16 +0800 T61 (4254)] ERROR : SocketError: getaddrinfo: Name or service not known
+[07/07/13 21:49:59 +0800 T61 (4254)] INFO : Starting Agent shutdown
+[07/07/13 21:57:41 +0800 T61 (6002)] INFO : Starting the New Relic agent in "development" environment.
+[07/07/13 21:57:41 +0800 T61 (6002)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/07/13 21:57:41 +0800 T61 (6002)] INFO : Reading configuration from config/newrelic.yml
+[07/07/13 21:57:41 +0800 T61 (6002)] INFO : Enabling the Request Sampler.
+[07/07/13 21:57:41 +0800 T61 (6002)] INFO : Environment: development
+[07/07/13 21:57:41 +0800 T61 (6002)] INFO : Dispatcher: webrick
+[07/07/13 21:57:41 +0800 T61 (6002)] INFO : Application: My Application
+[07/07/13 21:57:42 +0800 T61 (6002)] INFO : Installing Net instrumentation
+[07/07/13 21:57:42 +0800 T61 (6002)] INFO : Installing Rails 4 Controller instrumentation
+[07/07/13 21:57:42 +0800 T61 (6002)] INFO : Installing Rails4 Error instrumentation
+[07/07/13 21:57:42 +0800 T61 (6002)] INFO : Installing Rails 4 view instrumentation
+[07/07/13 21:57:42 +0800 T61 (6002)] INFO : Installing ActiveRecord 4 instrumentation
+[07/07/13 21:57:42 +0800 T61 (6002)] INFO : Finished instrumentation
+[07/07/13 21:57:44 +0800 T61 (6002)] INFO : Reporting to: https://rpm.newrelic.com/accounts/362763/applications/2373430
+[07/07/13 22:04:10 +0800 T61 (6098)] INFO : Starting the New Relic agent in "development" environment.
+[07/07/13 22:04:10 +0800 T61 (6098)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/07/13 22:04:10 +0800 T61 (6098)] INFO : Reading configuration from config/newrelic.yml
+[07/07/13 22:04:10 +0800 T61 (6098)] INFO : Enabling the Request Sampler.
+[07/07/13 22:04:10 +0800 T61 (6098)] INFO : Environment: development
+[07/07/13 22:04:10 +0800 T61 (6098)] INFO : No known dispatcher detected.
+[07/07/13 22:04:10 +0800 T61 (6098)] INFO : Application: My Application
+[07/07/13 22:04:10 +0800 T61 (6098)] INFO : Installing Net instrumentation
+[07/07/13 22:04:10 +0800 T61 (6098)] INFO : Installing Rails 4 Controller instrumentation
+[07/07/13 22:04:10 +0800 T61 (6098)] INFO : Installing Rails4 Error instrumentation
+[07/07/13 22:04:10 +0800 T61 (6098)] INFO : Installing Rails 4 view instrumentation
+[07/07/13 22:04:10 +0800 T61 (6098)] INFO : Installing ActiveRecord 4 instrumentation
+[07/07/13 22:04:10 +0800 T61 (6098)] INFO : Finished instrumentation
+[07/07/13 22:04:11 +0800 T61 (6098)] INFO : Starting Agent shutdown
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : Starting the New Relic agent in "development" environment.
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : Reading configuration from config/newrelic.yml
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : Enabling the Request Sampler.
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : Environment: development
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : No known dispatcher detected.
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : Application: My Application
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : Installing Net instrumentation
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : Installing Rails 4 Controller instrumentation
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : Installing Rails4 Error instrumentation
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : Installing Rails 4 view instrumentation
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : Installing ActiveRecord 4 instrumentation
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : Finished instrumentation
+[07/07/13 22:06:35 +0800 T61 (6129)] INFO : Starting Agent shutdown
+[07/07/13 22:09:36 +0800 T61 (6178)] INFO : Starting the New Relic agent in "development" environment.
+[07/07/13 22:09:36 +0800 T61 (6178)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/07/13 22:09:36 +0800 T61 (6178)] INFO : Reading configuration from config/newrelic.yml
+[07/07/13 22:09:36 +0800 T61 (6178)] INFO : Enabling the Request Sampler.
+[07/07/13 22:09:36 +0800 T61 (6178)] INFO : Environment: development
+[07/07/13 22:09:36 +0800 T61 (6178)] INFO : No known dispatcher detected.
+[07/07/13 22:09:36 +0800 T61 (6178)] INFO : Application: My Application
+[07/07/13 22:09:36 +0800 T61 (6178)] INFO : Installing Net instrumentation
+[07/07/13 22:09:36 +0800 T61 (6178)] INFO : Installing Rails 4 Controller instrumentation
+[07/07/13 22:09:36 +0800 T61 (6178)] INFO : Installing Rails4 Error instrumentation
+[07/07/13 22:09:36 +0800 T61 (6178)] INFO : Installing Rails 4 view instrumentation
+[07/07/13 22:09:36 +0800 T61 (6178)] INFO : Installing ActiveRecord 4 instrumentation
+[07/07/13 22:09:36 +0800 T61 (6178)] INFO : Finished instrumentation
+[07/07/13 22:09:38 +0800 T61 (6178)] INFO : Reporting to: https://rpm.newrelic.com/accounts/362763/applications/2373430
+[07/07/13 22:09:39 +0800 T61 (6178)] INFO : Starting Agent shutdown
+[07/07/13 22:11:44 +0800 T61 (6195)] INFO : Starting the New Relic agent in "development" environment.
+[07/07/13 22:11:44 +0800 T61 (6195)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/07/13 22:11:44 +0800 T61 (6195)] INFO : Reading configuration from config/newrelic.yml
+[07/07/13 22:11:44 +0800 T61 (6195)] INFO : Enabling the Request Sampler.
+[07/07/13 22:11:44 +0800 T61 (6195)] INFO : Environment: development
+[07/07/13 22:11:44 +0800 T61 (6195)] INFO : No known dispatcher detected.
+[07/07/13 22:11:44 +0800 T61 (6195)] INFO : Application: My Application
+[07/07/13 22:11:44 +0800 T61 (6195)] INFO : Installing Net instrumentation
+[07/07/13 22:11:44 +0800 T61 (6195)] INFO : Installing Rails 4 Controller instrumentation
+[07/07/13 22:11:44 +0800 T61 (6195)] INFO : Installing Rails4 Error instrumentation
+[07/07/13 22:11:44 +0800 T61 (6195)] INFO : Installing Rails 4 view instrumentation
+[07/07/13 22:11:44 +0800 T61 (6195)] INFO : Installing ActiveRecord 4 instrumentation
+[07/07/13 22:11:44 +0800 T61 (6195)] INFO : Finished instrumentation
+[07/07/13 22:11:47 +0800 T61 (6195)] INFO : Reporting to: https://rpm.newrelic.com/accounts/362763/applications/2373430
+[07/07/13 22:11:47 +0800 T61 (6195)] INFO : Starting Agent shutdown
+[07/07/13 22:13:47 +0800 T61 (6213)] INFO : Starting the New Relic agent in "development" environment.
+[07/07/13 22:13:47 +0800 T61 (6213)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/07/13 22:13:47 +0800 T61 (6213)] INFO : Reading configuration from config/newrelic.yml
+[07/07/13 22:13:47 +0800 T61 (6213)] INFO : Enabling the Request Sampler.
+[07/07/13 22:13:47 +0800 T61 (6213)] INFO : Environment: development
+[07/07/13 22:13:47 +0800 T61 (6213)] INFO : No known dispatcher detected.
+[07/07/13 22:13:47 +0800 T61 (6213)] INFO : Application: My Application
+[07/07/13 22:13:47 +0800 T61 (6213)] INFO : Installing Net instrumentation
+[07/07/13 22:13:47 +0800 T61 (6213)] INFO : Installing Rails 4 Controller instrumentation
+[07/07/13 22:13:47 +0800 T61 (6213)] INFO : Installing Rails4 Error instrumentation
+[07/07/13 22:13:47 +0800 T61 (6213)] INFO : Installing Rails 4 view instrumentation
+[07/07/13 22:13:47 +0800 T61 (6213)] INFO : Installing ActiveRecord 4 instrumentation
+[07/07/13 22:13:47 +0800 T61 (6213)] INFO : Finished instrumentation
+[07/07/13 22:13:49 +0800 T61 (6213)] INFO : Reporting to: https://rpm.newrelic.com/accounts/362763/applications/2373430
+[07/07/13 22:13:50 +0800 T61 (6213)] INFO : Starting Agent shutdown
+[07/07/13 22:34:12 +0800 T61 (6002)] INFO : Starting Agent shutdown
+[07/07/13 22:46:32 +0800 T61 (7224)] INFO : Starting the New Relic agent in "development" environment.
+[07/07/13 22:46:32 +0800 T61 (7224)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/07/13 22:46:32 +0800 T61 (7224)] INFO : Reading configuration from config/newrelic.yml
+[07/07/13 22:46:32 +0800 T61 (7224)] INFO : Enabling the Request Sampler.
+[07/07/13 22:46:32 +0800 T61 (7224)] INFO : Environment: development
+[07/07/13 22:46:32 +0800 T61 (7224)] INFO : Dispatcher: webrick
+[07/07/13 22:46:32 +0800 T61 (7224)] INFO : Application: My Application
+[07/07/13 22:46:32 +0800 T61 (7224)] INFO : Installing Net instrumentation
+[07/07/13 22:46:32 +0800 T61 (7224)] INFO : Installing Rails 4 Controller instrumentation
+[07/07/13 22:46:32 +0800 T61 (7224)] INFO : Installing Rails4 Error instrumentation
+[07/07/13 22:46:32 +0800 T61 (7224)] INFO : Installing Rails 4 view instrumentation
+[07/07/13 22:46:32 +0800 T61 (7224)] INFO : Installing ActiveRecord 4 instrumentation
+[07/07/13 22:46:32 +0800 T61 (7224)] INFO : Finished instrumentation
+[07/07/13 22:46:35 +0800 T61 (7224)] INFO : Reporting to: https://rpm.newrelic.com/accounts/362763/applications/2373430
+[07/07/13 22:46:44 +0800 T61 (7224)] INFO : Starting Agent shutdown
+[07/08/13 21:27:18 +0800 T61 (8345)] INFO : Starting the New Relic agent in "development" environment.
+[07/08/13 21:27:18 +0800 T61 (8345)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[07/08/13 21:27:18 +0800 T61 (8345)] INFO : Reading configuration from config/newrelic.yml
+[07/08/13 21:27:18 +0800 T61 (8345)] INFO : Enabling the Request Sampler.
+[07/08/13 21:27:18 +0800 T61 (8345)] INFO : Environment: development
+[07/08/13 21:27:18 +0800 T61 (8345)] INFO : Dispatcher: webrick
+[07/08/13 21:27:18 +0800 T61 (8345)] INFO : Application: My Application
+[07/08/13 21:27:19 +0800 T61 (8345)] INFO : Installing Net instrumentation
+[07/08/13 21:27:19 +0800 T61 (8345)] INFO : Installing Rails 4 Controller instrumentation
+[07/08/13 21:27:19 +0800 T61 (8345)] INFO : Installing Rails4 Error instrumentation
+[07/08/13 21:27:19 +0800 T61 (8345)] INFO : Installing Rails 4 view instrumentation
+[07/08/13 21:27:19 +0800 T61 (8345)] INFO : Installing ActiveRecord 4 instrumentation
+[07/08/13 21:27:19 +0800 T61 (8345)] INFO : Finished instrumentation
+[07/08/13 21:27:22 +0800 T61 (8345)] INFO : Reporting to: https://rpm.newrelic.com/accounts/362763/applications/2373430
+[07/08/13 21:27:30 +0800 T61 (8345)] INFO : Starting Agent shutdown
